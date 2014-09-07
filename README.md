@@ -3,7 +3,7 @@ Mortgage Calculator Tutorial
 
 This is the example source code from the [Net Magazine][netmag] article and [FITC][fitc] presentation, both titled "Groundwork for a Modern Web UI".
 
-![Mortgage Calc](http://i.imgur.com/qqM3mxO.png?1)
+![Mortgage Calc](https://raw.githubusercontent.com/dannagle/mortgagecalc/master/mortgage_calc_finished.png)
 
 Tools covered in this example are:
 
@@ -16,8 +16,11 @@ Tools covered in this example are:
 
 
 
-Article / Presentation
+Article / Presentation / Demo
 --------------
+
+[Live Demo][LiveDemo]
+
 Net Magazine article is to be published in the December 2014 issue.
 
 
@@ -36,7 +39,7 @@ Code is MIT License &copy; Dan Nagle
 
 Tools have their own licenses
 
-
+[LiveDemo]: http://mortgagecalc.naglecode.com/
 [netmag]: http://www.creativebloq.com/net-magazine
 [fitc]: http://fitc.ca/
 [fitcpresentation]: http://fitc.ca/presentation/groundwork-for-a-modern-web-ui/
