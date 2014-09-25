@@ -1,7 +1,7 @@
 Mortgage Calculator Tutorial
 =========
 
-This is the example source code from the [Net Magazine][netmag] article and [FITC][fitc] presentation, both titled "Groundwork for a Modern Web UI".
+This is the example source code from the [Net Magazine][netmag] article and [FITC][fitcpresentation] presentation, both titled "Groundwork for a Modern Web UI".
 
 ![Mortgage Calc](https://raw.githubusercontent.com/dannagle/mortgagecalc/master/mortgage_calc_finished.png)
 
@@ -24,7 +24,7 @@ Article / Presentation / Demo
 Net Magazine article is to be published in the December 2014 issue.
 
 
-[FITC presentation.][fitcpresentation]
+[FITC presentation.][slidedeck]
 
 Installation
 --------------
@@ -39,7 +39,7 @@ Code is MIT License &copy; Dan Nagle
 
 Tools have their own licenses
 
-[LiveDemo]: http://mortgagecalc.naglecode.com/
+[LiveDemo]: http://naglecode.com/modernwebui/www/mortgagecalc/
 [netmag]: http://www.creativebloq.com/net-magazine
 [fitc]: http://fitc.ca/
 [fitcpresentation]: http://fitc.ca/presentation/groundwork-for-a-modern-web-ui/
@@ -50,3 +50,4 @@ Tools have their own licenses
 [jQuery-FormatCurrency]: code.google.com/p/jQuery-FormatCurrency
 [Mustache.js]: github.com/janl/Mustache.js
 [UglifyJS]: github.com/mishoo/UglifyJS
+[slidedeck]: http://naglecode.com/modernwebui/
